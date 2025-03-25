@@ -9,25 +9,6 @@ This repository contains a machine learning-based spam detection model implement
 - **Machine Learning Models**: Training and evaluating various classification models.
 - **Performance Evaluation**: Assessing model accuracy using precision, recall, and F1-score.
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/spam-detection.git
-   cd spam-detection
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 4. Run `spam-detection-model.ipynb` step by step.
 
 ## Dataset
